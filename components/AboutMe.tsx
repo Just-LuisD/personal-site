@@ -20,7 +20,7 @@ export function AboutMe() {
   return (
     <div
       id="about"
-      className="w-full h-[95vh] bg-white dark:bg-neutral-950 font-sans pt-15"
+      className="w-full h-full bg-white dark:bg-neutral-950 font-sans pt-15"
     >
       <div className="max-w-7xl mx-auto py-15 px-4 md:px-8 lg:px-10">
         <h2 className="text-lg md:text-4xl mb-4 text-black dark:text-white max-w-4xl py-4">
